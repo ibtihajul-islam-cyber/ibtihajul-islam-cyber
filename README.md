@@ -1,119 +1,127 @@
 # Ibtihajul Islam
 
-Cyber Security Product Architect with over 15 years of experience across enterprise security, AI systems, Web3 platforms, and IT governance. Based in Melbourne, Australia.
+Cyber Security Product Architect focused on building security as a core system capability across AI platforms, Web3 ecosystems and enterprise environments.
 
-I design systems where security is a core capability, embedded into architecture and product behaviour rather than layered on afterwards.
-
----
-
-## About
-
-My work sits at the intersection of security engineering and system design. I focus on building identity-driven architectures, trust systems, and privacy-aware platforms that operate at scale.
-
-Over the past several years, I have been working in product environments where security decisions directly influence platform trust, revenue, and operational risk. This has shaped a practical approach to architecture, grounded in measurable outcomes rather than theoretical controls.
-
-I hold CISSP, CCSP, CISA, CISM and CRISC, along with three CCIE certifications across Routing & Switching, Service Provider, and Collaboration.
-
----
-
-## Current Work
-
-At VitaminAi, I lead the security architecture of an AI agent marketplace operating across Web3 ecosystems.
-
-My work includes:
-
-* Designing a zero trust gateway enforcing workload identity, mutual TLS and policy-based access decisions across distributed services
-* Building a graph-based trust system enabling real-time risk reasoning across agents, wallets and campaigns
-* Developing an on-chain risk engine identifying sybil behaviour and transaction anomalies across EVM chains
-* Leading the design of a secure escrow system with multi-signature controls and explicit state transitions
-* Establishing a privacy-preserving analytics layer separating identity from behavioural data
-* Running adversarial testing against AI agents within controlled sandbox environments
-
-These systems are designed to operate under real constraints, with measurable reductions in fraud, disputes and operational risk.
-
----
-
-## Selected Research
-
-My research focuses on applied cryptography, trust systems and secure computation.
-
-* Secure escrow architectures with formally verified state transitions for Web3 platforms
-* Cross-chain reputation and anomaly detection using graph and temporal analysis
-* Zero trust architectures for multi-actor AI systems with identity-based access control
-* Graph-based trust reasoning using retrieval-augmented approaches
-* Privacy-preserving machine learning using fully homomorphic encryption
-* Blockchain-based PKI using linkable ring signatures
-
-The emphasis has always been on bridging theory with deployable systems.
-
----
-
-## Approach
-
-I approach architecture with a few consistent principles:
-
-* Identity as the primary security boundary
-* Continuous verification instead of implicit trust
-* Clear separation of control and data planes
-* Explicit modelling of system states and transitions
-* Security decisions tied to measurable system impact
-
----
-
-## Technical Scope
-
-### Core Areas
-
-`Zero Trust` `AI Security` `Web3 Security` `GRC` `Privacy Engineering` `Cryptographic Systems`
-
-### Technologies and Platforms
-
-![Python](https://img.shields.io/badge/Python-30363d?style=flat\&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-30363d?style=flat\&logo=typescript)
-![Solidity](https://img.shields.io/badge/Solidity-30363d?style=flat\&logo=ethereum)
-![Docker](https://img.shields.io/badge/Docker-30363d?style=flat\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-30363d?style=flat\&logo=kubernetes)
-![Azure](https://img.shields.io/badge/Azure-30363d?style=flat\&logo=microsoftazure)
-![GraphQL](https://img.shields.io/badge/GraphQL-30363d?style=flat\&logo=graphql)
-
-### Frameworks and Standards
-
-`ISO 27001` `NIST SP 800-53` `GDPR` `HIPAA` `PCI DSS` `MITRE ATT&CK`
-
----
-
-## GitHub Overview
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&theme=default)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
-
----
-
-## Background
-
-My experience spans cybersecurity architecture, IT audit, risk management and network engineering across public and private sector environments.
-
-This includes designing enterprise security architectures, leading audit and compliance programs, and implementing defence-in-depth strategies across cloud, network and application layers.
-
----
-
-## Education
-
-MSc in Information Systems Management, University of Salford
-Bachelor’s in Electronic Engineering
-
----
-
-## Contact
-
+Melbourne, Australia
 LinkedIn: https://linkedin.com/in/ibtihajulislam
 Email: [ibtihajul@gmail.com](mailto:ibtihajul@gmail.com)
 
 ---
 
-## Repository Focus
+## Overview
 
-The repositories in this profile reflect practical system design: zero trust architectures, trust and risk engines, Web3 security models and applied cryptographic systems.
+I work on designing security architectures that operate under real constraints: scale, adversarial behaviour, and commercial impact.
 
-Each project is structured to show architecture, threat modelling and design trade-offs rather than isolated code samples.
+My experience spans over 15 years across product security, IT audit, risk and governance, and network engineering. The focus has consistently been on building systems where trust is enforced through architecture rather than assumed through boundaries.
+
+Certifications include CISSP, CCSP, CISA, CISM and CRISC, along with three CCIE tracks.
+
+---
+
+## Current Work
+
+At VitaminAi, I lead the security architecture of an AI agent marketplace operating across Web3 environments.
+
+Key contributions:
+
+* Designed a zero trust gateway enforcing identity, mutual TLS and policy-driven access across distributed services
+* Built a graph-based trust system enabling real-time risk reasoning across agents, wallets and campaigns
+* Developed an on-chain risk engine detecting sybil behaviour and transaction anomalies across EVM chains
+* Led the design of a secure escrow layer with multi-signature controls and formal state transitions
+* Implemented a privacy-preserving analytics architecture aligned with GDPR principles
+* Established adversarial testing and sandboxing for AI agents
+
+These systems directly reduced fraud exposure, improved platform trust, and supported high-value transaction flows.
+
+---
+
+## Research
+
+My research work focuses on applied cryptography, trust systems and secure architectures.
+
+Selected publications:
+
+* Secure Escrow and Settlement Architecture (2025)
+  https://ajaccm.com/journal/index.php/ajaccm/article/view/295
+
+* On-Chain Reputation and Anomaly Scoring (2025)
+  https://ajaccm.com/journal/index.php/ajaccm/article/view/291
+
+* Zero Trust Agent Gateway for AI Ecosystems (2024)
+  https://ajaccm.com/journal/index.php/ajaccm/article/view/287
+
+* Graph-Based Trust Fabric for AI and Web3 Systems (2023)
+  https://ajaccm.com/journal/index.php/ajaccm/article/view/294
+
+* Privacy-Preserving Machine Learning using FHE (2022)
+
+* Blockchain-Based PKI using Linkable Ring Signatures (2021)
+
+The emphasis across all work is on bridging research with deployable system design.
+
+---
+
+## Technical Focus
+
+### Core Areas
+
+`Zero Trust` `AI Security` `Web3 Security` `GRC` `Privacy Engineering` `Cryptographic Systems`
+
+### Stack Overview
+
+![Python](https://img.shields.io/badge/Python-1f2937?style=flat\&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat\&logo=typescript)
+![Solidity](https://img.shields.io/badge/Solidity-1f2937?style=flat\&logo=ethereum)
+![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1f2937?style=flat\&logo=kubernetes)
+![Azure](https://img.shields.io/badge/Azure-1f2937?style=flat\&logo=microsoftazure)
+![GraphQL](https://img.shields.io/badge/GraphQL-1f2937?style=flat\&logo=graphql)
+
+### Standards and Frameworks
+
+`ISO 27001` `NIST SP 800-53` `GDPR` `HIPAA` `PCI DSS` `MITRE ATT&CK`
+
+---
+
+## GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+
+---
+
+## Approach
+
+My approach to system design is consistent:
+
+* Identity is the primary control surface
+* Trust must be continuously evaluated
+* Systems should be explicit in state and behaviour
+* Security should produce measurable outcomes
+
+---
+
+## Background
+
+Experience across:
+
+* Cybersecurity architecture and product security
+* IT audit, risk assessment and compliance
+* Business continuity and resilience design
+* Network and infrastructure engineering
+
+Work has spanned public sector, enterprise environments and product-led platforms.
+
+---
+
+## Repository Direction
+
+The repositories here are structured to reflect system-level thinking:
+
+* Zero trust architectures
+* Trust and risk engines
+* Web3 security models
+* Applied cryptographic systems
+
+Each project includes architecture, threat modelling and design decisions, not just implementation.
